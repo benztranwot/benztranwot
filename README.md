@@ -17,8 +17,42 @@
 - 📫 How to reach me **benzdev0305@gmail.com**
 
 <br>
-
-<div align="center"><div width="300"><br><h2 align="center">👨🏽‍💻 Programming languages 👨🏽‍💻</h2><br><div align="center"><span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-TypeSrcipt-3178C6?style=flat&logo=typescript&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Java-F02F2F?style=flat&logo=java&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"></span></div></div><div width="300"><br><h2 align="center">🚀 Frameworks and Libraries 🚀</h2><br><div align="center"><span><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind%20css&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Sanity-F02F2F?style=flat&logo=sanity&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=FFFFFF"></span></div></div><div width="300"><br><h2 align="center">🛠 Development Tools 🛠</h2><br><div align="center"><span><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></span>&nbsp;<span><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"></span>&nbsp;<span><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF"></span></div></div></div>
+<h2 align="center">🚀 Technologies 🚀</h2>
+<br>
+<div align="center">
+<span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-TypeSrcipt-3178C6?style=flat&logo=typescript&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Java-F02F2F?style=flat&logo=java&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind%20css&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Sanity-F02F2F?style=flat&logo=sanity&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF"></span>
+</div>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
