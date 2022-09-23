@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-<div align="left">
+<div align="left" width="300">
 <br>
 <h2 align="center">👨🏽‍💻 Programming languages 👨🏽‍💻</h2>
 <br>
@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<div align="center">
+<div align="center" width="300">
 <br>
 <h2 align="center">🚀 Frameworks and Libraries 🚀</h2>
 <br>
@@ -59,7 +59,7 @@
 </div>
 </div>
 
-<div align="right">
+<div align="right" width="300">
 <br>
 <h2 align="center">🛠 Development Tools 🛠</h2>
 <br>
