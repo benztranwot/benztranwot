@@ -17,9 +17,11 @@
 - 📫 How to reach me **benzdev0305@gmail.com**
 
 <br>
+
+<div align="left">
+<br>
 <h2 align="center">👨🏽‍💻 Programming languages 👨🏽‍💻</h2>
 <br>
-
 <div align="center">
 <span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF"></span>&nbsp;
@@ -30,11 +32,12 @@
 <span><img src="http://img.shields.io/badge/-Java-F02F2F?style=flat&logo=java&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"></span>
 </div>
+</div>
 
+<div align="center">
 <br>
 <h2 align="center">🚀 Frameworks and Libraries 🚀</h2>
 <br>
-
 <div align="center">
 <span><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF"></span>&nbsp;
@@ -53,11 +56,12 @@
 <span><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=FFFFFF"></span>
 </div>
+</div>
 
+<div align="right">
 <br>
 <h2 align="center">🛠 Development Tools 🛠</h2>
 <br>
-
 <div align="center">
 <span><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF"></span>&nbsp;
@@ -68,11 +72,11 @@
 <span><img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF"></span>
 </div>
+</div>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-
 <div align=center><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benztranwot&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api?username=benztranwot&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></div>
 
 <br>
