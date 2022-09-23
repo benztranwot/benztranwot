@@ -2,7 +2,7 @@
 <h3 align="center">Special ability: Turn Coffee and Stack Overflow into Beautiful Website</h3>
 <br>
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+ <img width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
 - 🔭 I’m currently working on **My New Blog Project**
 
@@ -64,4 +64,5 @@
 <br>
 <h2 align="center">🏆 Open Source 🏆</h2>
 <br>
-<p align="center">Most of my projects are under MIT LICENSE, give a ⭐️ to some of my projects if you like them!</p>
+<p align="center">Most of my projects are under MIT LICENSE</p>
+<p align="center">Give a ⭐️ to some of my projects if you like them!</p>
