@@ -2,6 +2,8 @@
 <h3 align="center">Special ability: Turn Coffee and Stack Overflow into Beautiful Website</h3>
 <br>
 
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+
 - 🔭 I’m currently working on **My New Blog Project**
 
 - 🌱 I’m currently learning **Data Science** and **Machine Learning**
@@ -60,5 +62,6 @@
 <div align=center><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benztranwot&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api?username=benztranwot&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></div>
 
 <br>
-<h2 align="center">🏆 Giving ⭐️ to some of my projects if you like it! 🏆</h2>
+<h2 align="center">🏆 Open Source 🏆</h2>
 <br>
+<p align="center">Most of my projects are under MIT LICENSE, give a ⭐️ to some of my projects if you like them!</p>
