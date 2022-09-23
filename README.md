@@ -18,6 +18,7 @@
 
 <br>
 
+<div align="center">
 <div align="left">
 <br>
 <h2 align="center">👨🏽‍💻 Programming languages 👨🏽‍💻</h2>
@@ -71,6 +72,7 @@
 <span><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF"></span>
+</div>
 </div>
 </div>
 
