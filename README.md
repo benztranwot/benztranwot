@@ -46,7 +46,6 @@
 <span><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=FFFFFF"></span>&nbsp;
