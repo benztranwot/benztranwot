@@ -4,9 +4,9 @@
 
  <img width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
-- 🔭 I’m currently working on **My New Blog Project**
+- 🔭 I’m currently working on [My New Blog Project](https://benz-blog.vercel.app/)
 
-- 🌱 I’m currently learning **Data Science** and **Machine Learning**
+- 🌱 I’m currently studying [The Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 - 👯 I’m looking to collaborate on any **Open Source Project**
 
