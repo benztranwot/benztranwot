@@ -12,7 +12,7 @@
 
 - 💬 Ask me anything about **MERN & JAMstack**
 
-- 🌎 Checkout my [Personal Website](https://benztran.netlify.app/)
+- 🌎 Checkout my [Personal Website](https://benz-tran-tech.vercel.app/)
 
 - 💼 Have a look at my [Linkedin](https://www.linkedin.com/in/quan-tran-61792a206/)
 
