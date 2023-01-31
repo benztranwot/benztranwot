@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ben Tran</h1>
+<h1 align="center">Hi 👋, I'm Quan Tran</h1>
 <h3 align="center">Special ability: Turn Coffee and Stack Overflow into Beautiful Website</h3>
 <br>
 
@@ -12,11 +12,11 @@
 
 - 💬 Ask me anything about **MERN & JAMstack**
 
-- 🌎 Checkout my [Personal Website](https://benz-tran-tech.vercel.app/)
+- 🌎 Checkout my [Personal Website](https://quantrantech.vercel.app/)
 
-- 💼 Have a look at my [Linkedin](https://www.linkedin.com/in/quan-tran-61792a206/)
+- 💼 Have a look at my [Linkedin](https://www.linkedin.com/in/quantrantech/)
 
-- 📫 How to reach me **benzdev0305@gmail.com**
+- 📫 How to reach me **minhquantran451@gmail.com**
 
 <br>
 <h2 align="center">🚀 Technologies 🚀</h2>
