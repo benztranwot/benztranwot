@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan Tran</h1>
-<h3 align="center">Special ability: Turn Coffee and Stack Overflow into Beautiful Website</h3>
+<h3 align="center">Self-taught Programmer | Web Developer | Coffee Aficionado</h3>
 <br>
 
  <img width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
