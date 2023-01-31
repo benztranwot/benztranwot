@@ -29,30 +29,28 @@
 <span><img src="https://img.shields.io/badge/-TypeSrcipt-3178C6?style=flat&logo=typescript&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind%20css&logoColor=FFFFFF"></span>&nbsp;
- <span><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;
- <span><img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant%20design&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=gatsby&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=gatsby&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Sanity-F02F2F?style=flat&logo=sanity&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat&logo=postgresql&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=FFFFFF"></span>&nbsp;
+<span><img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></span>&nbsp;
 <span><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></span>&nbsp;
-<span><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=FFFFFF"></span>
 </div>
 
 <br>
