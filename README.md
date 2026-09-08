@@ -16,7 +16,7 @@
 
 - 💼 Have a look at my [Linkedin](https://www.linkedin.com/in/quantrantech/)
 
-- 📫 How to reach me **minhquantran451@gmail.com**
+- 📫 How to reach me **mqtran289@gmail.com**
 
 <br>
 <h2 align="center">🚀 Technologies 🚀</h2>
