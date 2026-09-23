@@ -57,6 +57,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benztranwot&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /><img height="170em" src="https://github-readme-stats.vercel.app/api?username=benztranwot&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[benztranwot]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 <br>
 <h2 align="center">🏆 Open Source 🏆</h2>
