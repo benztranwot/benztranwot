@@ -4,9 +4,9 @@
 
  <img width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
-- 🔭 I’m currently working on [My New Blog Project](https://benz-blog.vercel.app/)
+- 🔭 I’m currently working on my fullstack PERN project
 
-- 🌱 I’m currently studying [The Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- 🌱 I’m currently finishing my B.S. in Computer Science at St. Cloud State University (expected December 2026)
 
 - 👯 I’m looking to collaborate on any **Open Source Project**
 
