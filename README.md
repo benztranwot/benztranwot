@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently finishing my B.S. in Computer Science at St. Cloud State University (expected December 2026)
 
-- 🔭 I’m currently working on my fullstack .NET project
+- 🔭 I’m currently working on my **Fullstack .NET project**
 
 - 👯 I’m looking to collaborate on any **Open Source Project**
 
