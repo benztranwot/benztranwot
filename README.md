@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Quan Tran</h1>
-<h3 align="center">Self-taught Programmer | Web Developer | Coffee Aficionado</h3>
+<h3 align="center">Computer Science Student | Fullstack Software Engineer</h3>
 <br>
 
  <img width="400" align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
-- 🔭 I’m currently working on my fullstack PERN project
-
 - 🌱 I’m currently finishing my B.S. in Computer Science at St. Cloud State University (expected December 2026)
+
+- 🔭 I’m currently working on my fullstack .NET project
 
 - 👯 I’m looking to collaborate on any **Open Source Project**
 
-- 💬 Ask me anything about **MERN & JAMstack**
+- 💬 Ask me anything about **Fullstack Development**
 
 - 🌎 Checkout my [Personal Website](https://quantrantech.vercel.app/)
 
